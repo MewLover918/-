@@ -1,0 +1,44 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+47.88.79.213 cbs.lagofast.com
+50.7.85.220 spotify.com
+50.7.85.220 api.spotify.com
+50.7.85.220 appresolve.spotify.com
+50.7.85.220 accounts.spotify.com
+50.7.85.220 aet.spotify.com
+50.7.85.220 gew1-spclient.spotify.com
+50.7.85.220 login5.spotify.com
+50.7.85.220 open.spotify.com
+50.7.85.220 spotifycdn.com
+50.7.85.220 www.spotify.com
+50.7.85.220 spotifycdn.com
+
+52.24.63.106 api.spotify.com
+54.230.200.102 appresolve.spotify.com
+52.84.211.27 accounts.spotify.com
+3.220.229.198 aet.spotify.com
+52.88.125.19 gew1-spclient.spotify.com
+34.202.248.102 login5.spotify.com
+34.236.183.125 open.spotify.com
+54.174.128.23 spotifycdn.com
+54.174.182.159 www.spotify.com
+54.174.128.23 spotifycdn.com
